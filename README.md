@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ervin Pangilinan, a computer science student at Mercer University!
+  - I'm currently interning at the Georgia Tech Research Institute!
 - 👀 I’m interested in algorithms!
 - 🌱 I’m currently learning competitive programming in Python!
   - 10th Place at 2022 CCSC Southeastern Programming Competition
