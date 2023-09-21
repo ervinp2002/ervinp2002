@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Ervin Pangilinan, a senior computer science student at Mercer University!
   -  I'm currently interning at Georgia Tech Research Institute!
-- 👀  I’m interested in algorithms and high-performance computing
+- 👀  I’m interested in algorithms and high-performance computing!
 - 🌱  I am classes in Numerical Methods and Software Engineering!
   -  3rd Place at 2022 ICPC Augusta Southeast Regional 
   -  10th Place at 2022 CCSC Southeastern Programming Competition
