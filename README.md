@@ -1,6 +1,5 @@
-- 👋  Hi, I’m Ervin Pangilinan, a senior computer science student at Mercer University!
-  -  I'm currently interning at Georgia Tech Research Institute!
-- 💻  I will be a Graduate Student at UT Knoxville!
+- 👋  Hi, I’m Ervin Pangilinan, a graduate student at UT Knoxville!
+  -  I'm interested in high performance computing!
 - 📫  You can reach me at eepang1@gmail.com
 
 <!---
