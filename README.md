@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Ervin Pangilinan, a graduate student at UT Knoxville!
-  -  I'm interested in high-performance computing and machine learning!
+  -  I'm interested in data science and machine learning!
 - 📫  You can reach me at eepang1@gmail.com
 
 <!---
